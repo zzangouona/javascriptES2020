@@ -5,7 +5,6 @@ console.log(typeof value); //boolean
 value = String(value);//문자형변환
 console.log(typeof value);//string
 
-
 //숫자형 변환
 let str = "123";
 console.log(typeof str);
