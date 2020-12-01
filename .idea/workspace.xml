@@ -25,12 +25,18 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34e3f8a0-8708-4f52-91f2-cf421c394c9d" name="Default Changelist" comment="자바스크립트 기본 문법&#10;- 자료형&#10;- alert, prompt, confirm을 이용한 상호작용">
-      <change afterPath="$PROJECT_DIR$/자바스트립트기본/ex01/basic_06.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/자바스트립트기본/ex01/basic_06.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/자바스트립트기본/ex01/basic_07.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/자바스트립트기본/ex01/basic_07.js" afterDir="false" />
+    <list default="true" id="34e3f8a0-8708-4f52-91f2-cf421c394c9d" name="Default Changelist" comment="자바스크립트 객체: 기본">
+      <change afterPath="$PROJECT_DIR$/자바스트립트기본/ex03/ex02_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/자바스트립트기본/ex03/ex02_2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/자바스트립트기본/ex02/ex01.html" beforeDir="false" afterPath="$PROJECT_DIR$/자바스트립트기본/ex02/ex02_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/자바스트립트기본/ex02/ex01.js" beforeDir="false" afterPath="$PROJECT_DIR$/자바스트립트기본/ex02/ex02_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/자바스트립트기본/ex02/ex02.html" beforeDir="false" afterPath="$PROJECT_DIR$/자바스트립트기본/ex02/ex02_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/자바스트립트기본/ex02/ex02.js" beforeDir="false" afterPath="$PROJECT_DIR$/자바스트립트기본/ex02/ex02_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/자바스트립트기본/ex02/ex04.html" beforeDir="false" afterPath="$PROJECT_DIR$/자바스트립트기본/ex02/ex02_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/자바스트립트기본/ex02/ex04.js" beforeDir="false" afterPath="$PROJECT_DIR$/자바스트립트기본/ex02/ex02_4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/자바스트립트기본/ex02/ex05.html" beforeDir="false" afterPath="$PROJECT_DIR$/자바스트립트기본/ex02/ex02_5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/자바스트립트기본/ex02/ex05.js" beforeDir="false" afterPath="$PROJECT_DIR$/자바스트립트기본/ex02/ex02_5.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +54,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1kgUCJ5CHZaZMawHeSsi9X7YED2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -61,11 +78,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.eslint" value="/usr/local/lib/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.NodeInterpreter" value="project" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -73,17 +97,36 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="basic_07.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javascriptES2020/자바스트립트기본/ex01/basic_07.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.ex02_2.html (1)">
+    <configuration name="basic_10.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javascriptES2020/자바스트립트기본/ex01/basic_10.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="ex02_2.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javascriptES2020/자바스트립트기본/ex03/ex02_2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="ex02_2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javascriptES2020/자바스트립트기본/ex02/ex02_2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="ex02_4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javascriptES2020/자바스트립트기본/ex02/ex02_4.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="ex02_5.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javascriptES2020/자바스트립트기본/ex02/ex02_5.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.basic_07.html" />
+        <item itemvalue="JavaScript Debug.ex02_2.html (1)" />
+        <item itemvalue="JavaScript Debug.ex02_5.html" />
+        <item itemvalue="JavaScript Debug.ex02_4.html" />
+        <item itemvalue="JavaScript Debug.ex02_2.html" />
+        <item itemvalue="JavaScript Debug.basic_10.html" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="34e3f8a0-8708-4f52-91f2-cf421c394c9d" name="Default Changelist" comment="" />
@@ -92,7 +135,9 @@
       <option name="presentableId" value="Default" />
       <updated>1606121598236</updated>
       <workItem from="1606121599279" duration="305000" />
-      <workItem from="1606121909229" duration="8756000" />
+      <workItem from="1606121909229" duration="10229000" />
+      <workItem from="1606165742849" duration="28441000" />
+      <workItem from="1606816702415" duration="83000" />
     </task>
     <task id="LOCAL-00001" summary="자바스크립트 기본 문법&#10;- 변수와 상수">
       <created>1606121742273</created>
@@ -115,7 +160,56 @@
       <option name="project" value="LOCAL" />
       <updated>1606121984652</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="자바스크립트 기본 문법&#10;- 형변환">
+      <created>1606159341730</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606159341730</updated>
+    </task>
+    <task id="LOCAL-00005" summary="자바스크립트 기본 문법&#10;- 기본 연산자와 수학">
+      <created>1606159370919</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606159370919</updated>
+    </task>
+    <task id="LOCAL-00006" summary="자바스크립트 기본 문법&#10;- 비교연산자">
+      <created>1606164716619</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606164716619</updated>
+    </task>
+    <task id="LOCAL-00007" summary="자바스크립트 기본 문법&#10;- if'?&quot; 사용한 조건처리">
+      <created>1606194193055</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606194193055</updated>
+    </task>
+    <task id="LOCAL-00008" summary="자바스크립트 기본 문법&#10;- 논리연산자&#10;- 과">
+      <created>1606200593156</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606200593156</updated>
+    </task>
+    <task id="LOCAL-00009" summary="자바스크립트 기본 문법&#10;- null 병합 연산자 '??&quot;">
+      <created>1606247384413</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606247384413</updated>
+    </task>
+    <task id="LOCAL-00010" summary="자바스크립트 객체: 기본">
+      <created>1606422856104</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606422856104</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,12 +243,45 @@
     <MESSAGE value="자바스크립트 기본 문법&#10;- 변수와 상수" />
     <MESSAGE value="자바스크립트 기본 문법&#10;- 엄격모드" />
     <MESSAGE value="자바스크립트 기본 문법&#10;- 자료형&#10;- alert, prompt, confirm을 이용한 상호작용" />
-    <option name="LAST_COMMIT_MESSAGE" value="자바스크립트 기본 문법&#10;- 자료형&#10;- alert, prompt, confirm을 이용한 상호작용" />
+    <MESSAGE value="자바스크립트 기본 문법&#10;- 형변환" />
+    <MESSAGE value="자바스크립트 기본 문법&#10;- 기본 연산자와 수학" />
+    <MESSAGE value="자바스크립트 기본 문법&#10;- 비교연산자" />
+    <MESSAGE value="자바스크립트 기본 문법&#10;- if'?&quot; 사용한 조건처리" />
+    <MESSAGE value="자바스크립트 기본 문법&#10;- if'?&quot; 사용한 조건처리&#10;- 과제" />
+    <MESSAGE value="자바스크립트 기본 문법&#10;- 논리연산자&#10;- 과" />
+    <MESSAGE value="자바스크립트 기본 문법&#10;- null 병합 연산자 '??&quot;" />
+    <MESSAGE value="자바스크립트 객체: 기본" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바스크립트 객체: 기본" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1606122013979">
+    <state x="628" y="305" width="773" height="762" key="#ESLint" timestamp="1606167111882">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1606122013979" />
+    <state x="628" y="305" width="773" height="762" key="#ESLint/0.0.1792.1120@0.0.1792.1120" timestamp="1606167111882" />
+    <state x="530" y="245" key="#Inspections" timestamp="1606426118734">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="530" y="245" key="#Inspections/0.0.1792.1120@0.0.1792.1120" timestamp="1606426118734" />
+    <state x="621" y="391" key="#Notifications" timestamp="1606200676482">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="621" y="391" key="#Notifications/0.0.1792.1120@0.0.1792.1120" timestamp="1606200676482" />
+    <state x="633" y="347" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1606423522333">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="633" y="347" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1792.1120@0.0.1792.1120" timestamp="1606423522333" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1606816787988">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1606816787988" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1606247422921">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1606247422921" />
+    <state x="561" y="233" width="670" height="691" key="search.everywhere.popup" timestamp="1606423862828">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="233" width="670" height="691" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1606423862828" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1606168878374" />
   </component>
 </project>
