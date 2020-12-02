@@ -25,9 +25,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34e3f8a0-8708-4f52-91f2-cf421c394c9d" name="Default Changelist" comment="자바스크립트 객체: 기본&#10;참조에 의한 객체 복사&#10;가비지 컬렉션&#10;메서드와 'this'&#10;'new' 연산자와 생성자 함수&#10;옵셔널 체이닝 '?.'&#10;심볼형&#10;객체를 원시형으로 변환하기">
-      <change afterPath="$PROJECT_DIR$/자바스트립트기본/ex04/ex04_01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/자바스트립트기본/ex04/ex04_02.js" afterDir="false" />
+    <list default="true" id="34e3f8a0-8708-4f52-91f2-cf421c394c9d" name="Default Changelist" comment="자바스크립트 자료구와 자료형&#10;- 원시값의 메서드&#10;- 숫자형">
+      <change afterPath="$PROJECT_DIR$/자바스트립트기본/ex04/ex04_03.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,11 +88,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.ex04_02.js">
+  <component name="RunManager" selected="Node.js.ex04_03.js">
     <configuration name="ex02_2.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javascriptES2020/자바스트립트기본/ex03/ex02_2.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="ex02_4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javascriptES2020/자바스트립트기본/ex02/ex02_4.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="ex02_5.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javascriptES2020/자바스트립트기본/ex02/ex02_5.html" useBuiltInWebServerPort="true">
@@ -105,13 +101,16 @@
     <configuration name="ex04_02.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/자바스트립트기본/ex04/ex04_02.js" working-dir="$PROJECT_DIR$/자바스트립트기본/ex04">
       <method v="2" />
     </configuration>
+    <configuration name="ex04_03.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/자바스트립트기본/ex04/ex04_03.js" working-dir="$PROJECT_DIR$/자바스트립트기본/ex04">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.ex04_03.js" />
         <item itemvalue="Node.js.ex04_02.js" />
         <item itemvalue="Node.js.ex04_01.js" />
         <item itemvalue="JavaScript Debug.ex02_2.html (1)" />
         <item itemvalue="JavaScript Debug.ex02_5.html" />
-        <item itemvalue="JavaScript Debug.ex02_4.html" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +128,7 @@
       <workItem from="1606121599279" duration="305000" />
       <workItem from="1606121909229" duration="10229000" />
       <workItem from="1606165742849" duration="28441000" />
-      <workItem from="1606816702415" duration="7156000" />
+      <workItem from="1606816702415" duration="12069000" />
     </task>
     <task id="LOCAL-00001" summary="자바스크립트 기본 문법&#10;- 변수와 상수">
       <created>1606121742273</created>
@@ -208,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606816872268</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="자바스크립트 자료구와 자료형&#10;- 원시값의 메서드&#10;- 숫자형">
+      <created>1606845033024</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606845033024</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +257,8 @@
     <MESSAGE value="자바스크립트 기본 문법&#10;- null 병합 연산자 '??&quot;" />
     <MESSAGE value="자바스크립트 객체: 기본" />
     <MESSAGE value="자바스크립트 객체: 기본&#10;참조에 의한 객체 복사&#10;가비지 컬렉션&#10;메서드와 'this'&#10;'new' 연산자와 생성자 함수&#10;옵셔널 체이닝 '?.'&#10;심볼형&#10;객체를 원시형으로 변환하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="자바스크립트 객체: 기본&#10;참조에 의한 객체 복사&#10;가비지 컬렉션&#10;메서드와 'this'&#10;'new' 연산자와 생성자 함수&#10;옵셔널 체이닝 '?.'&#10;심볼형&#10;객체를 원시형으로 변환하기" />
+    <MESSAGE value="자바스크립트 자료구와 자료형&#10;- 원시값의 메서드&#10;- 숫자형" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바스크립트 자료구와 자료형&#10;- 원시값의 메서드&#10;- 숫자형" />
   </component>
   <component name="WindowStateProjectService">
     <state x="628" y="305" width="773" height="762" key="#ESLint" timestamp="1606167111882">
@@ -270,30 +277,34 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="633" y="347" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1792.1120@0.0.1792.1120" timestamp="1606423522333" />
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1606844197141">
+    <state x="705" y="465" key="Github.CreateGistDialog" timestamp="1606923822065">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1606844197141" />
-    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1606844197140">
+    <state x="705" y="465" key="Github.CreateGistDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1606923822065" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1606927059763">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1606844197140" />
-    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1606844197139">
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1606927059763" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1606927059762">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1606844197139" />
-    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1606844197140">
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1606927059762" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1606927059762">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1606844197140" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1606927059762" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1606927059763">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1606927059763" />
     <state x="397" y="199" key="SettingsEditor" timestamp="1606819244105">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1606819244105" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1606816981008">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1606845040159">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1606816981008" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1606845040159" />
     <state x="561" y="233" width="670" height="691" key="search.everywhere.popup" timestamp="1606423862828">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
